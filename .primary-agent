@@ -1,0 +1,4 @@
+primary_agent_repo: https://github.com/AllenDevv/mimo-ultra-agent.git
+primary_agent_path: mimo-ultra.md
+# Local folder where the repo will be cloned: .primary-agent
+# This file is read by fetch-primary-agent.ps1 to locate and copy the agent file into the workspace root.
